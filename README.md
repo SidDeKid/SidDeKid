@@ -1,12 +1,12 @@
-### Hi there 👋
+### About me
 
 <div id="header" align="center">
     <img src="assets/Logo.png" width="200"/> <br>
     <!-- <a href="https://www.linkedin.com/in/sid-brinkmans-885758222/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="">
+        <img src="https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white%22%20alt=%22Discord%20Badge%22"/>
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
