@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+<p id="header" align="center">
     <img src="assets/Logo.png" width="200"/> <br>
     <!-- <a href="https://www.linkedin.com/in/sid-brinkmans-885758222/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,13 +13,13 @@
     </a> -->
     <h2>SidDeKid</h2>
     <img src="https://komarev.com/ghpvc/?username=SidDeKid&style=flat-square&color=blue" alt="View counter"/>
-</div>
+</p>
 <p>
-    - 🔭 I’m currently working on an API for looking up famous drummers, and taking a look at their drumsets (Findrum)
-    - 🌱 I’m currently studying software development.
-    - 👯 I’m only looking to collaborate localy with school projects.
-    - 🤔 I’m looking for help with cool website ideas.
-    - 💬 Ask me about school.
-    - 📫 How to reach me: Discord -> Bliep_2015 #7506
+    - 🔭 I’m currently working on an API for looking up famous drummers, and taking a look at their drumsets (Findrum) <br>
+    - 🌱 I’m currently studying software development. <br>
+    - 👯 I’m only looking to collaborate localy with school projects. <br>
+    - 🤔 I’m looking for help with cool website ideas. <br>
+    - 💬 Ask me about school. <br>
+    - 📫 How to reach me: Discord -> Bliep_2015 #7506 <br>
     - ⚡ Fun fact: I'm top of my class in css.
 </p>
