@@ -11,8 +11,8 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
-    <h2>SidDeKid</h2>
     <img src="https://komarev.com/ghpvc/?username=SidDeKid&style=flat-square&color=blue" alt="View counter"/>
+    <h1>SidDeKid</h1>
 </div> <br>
 <p>
     - 🔭 I’m currently working on an API for looking up famous drummers, and taking a look at their drumsets (Findrum) <br>
