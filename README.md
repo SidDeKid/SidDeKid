@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p id="header" align="center">
+<div id="header" align="center">
     <img src="assets/Logo.png" width="200"/> <br>
     <!-- <a href="https://www.linkedin.com/in/sid-brinkmans-885758222/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +13,7 @@
     </a> -->
     <h2>SidDeKid</h2>
     <img src="https://komarev.com/ghpvc/?username=SidDeKid&style=flat-square&color=blue" alt="View counter"/>
-</p>
+</div> <br>
 <p>
     - 🔭 I’m currently working on an API for looking up famous drummers, and taking a look at their drumsets (Findrum) <br>
     - 🌱 I’m currently studying software development. <br>
