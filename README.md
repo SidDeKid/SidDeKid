@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-    
+    <img src="assets/Logo.png"/>
 </div>
 
 <!--
