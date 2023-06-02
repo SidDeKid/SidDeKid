@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-    <img src="assets/Logo.png" width="100"/>
-</div>
-<div id="badges">
+    <img src="assets/Logo.png" width="200"/>
     <a href="https://www.linkedin.com/in/sid-brinkmans-885758222/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -13,8 +11,6 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
-</div>
-<div>
     <img src="https://komarev.com/ghpvc/?username=SidDeKid&style=flat-square&color=blue" alt="View counter"/>
 </div>
 
