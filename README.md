@@ -21,5 +21,5 @@
     - 🤔 I’m looking for help with cool website ideas. <br>
     - 💬 Ask me about school. <br>
     - 📫 How to reach me: Discord -> Bliep_2015 #7506 <br>
-    - ⚡ Fun fact: I'm top of my class in css.
+    - ⚡ Fun fact: I took a first-aid course.
 </p>
